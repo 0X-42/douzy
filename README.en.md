@@ -12,7 +12,7 @@ Save media from Douyin, TikTok, YouTube, Telegram, and X on Windows and macOS. T
 | Mac with Apple silicon | [Douzy-arm64.dmg](https://github.com/0X-42/douzy/releases/latest/download/Douzy-arm64.dmg) |
 | Mac with Intel processor | [Douzy-x64.dmg](https://github.com/0X-42/douzy/releases/latest/download/Douzy-x64.dmg) |
 
-[![Douzy workspace showing platform navigation, tasks, and recently saved media](media/workbench.png)](media/workbench.png)
+[![Douzy workspace showing platform navigation, tasks, and recently saved media](media/workbench-en.png)](media/workbench-en.png)
 
 *Douzy 0.15.0 on macOS with sample data.*
 
